@@ -1,0 +1,26 @@
+﻿  Source.cpp
+D:\Git\EDA_game\Game\Source.cpp(85,20): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Git\EDA_game\Game\Source.cpp(86,21): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Git\EDA_game\Game\Source.cpp(91,20): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Git\EDA_game\Game\Source.cpp(94,21): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Git\EDA_game\Game\Source.cpp(115,20): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Git\EDA_game\Game\Source.cpp(137,20): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Git\EDA_game\Game\Source.cpp(140,17): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Git\EDA_game\Game\Source.cpp(141,21): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Git\EDA_game\Game\Source.cpp(164,20): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Git\EDA_game\Game\Source.cpp(301,20): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Git\EDA_game\Game\Source.cpp(344,20): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Git\EDA_game\Game\Source.cpp(427,20): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Git\EDA_game\Game\Source.cpp(516,20): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Git\EDA_game\Game\Source.cpp(518,21): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Git\EDA_game\Game\Source.cpp(538,20): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Git\EDA_game\Game\Source.cpp(540,21): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Git\EDA_game\Game\Source.cpp(610,20): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Git\EDA_game\Game\Source.cpp(634,20): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Git\EDA_game\Game\Source.cpp(806,20): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Git\EDA_game\Game\Source.cpp(808,21): warning C4018: '<=': incompatibilidade de signed/unsigned
+D:\Git\EDA_game\Game\Source.cpp(832,19): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Git\EDA_game\Game\Source.cpp(848,20): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Git\EDA_game\Game\Source.cpp(888,21): warning C4018: '<': incompatibilidade de signed/unsigned
+D:\Git\EDA_game\Game\Source.cpp(976,6): warning C4101: 'score': variável local não referenciada
+  Game.vcxproj -> D:\Git\EDA_game\Game\Debug\Game.exe
